@@ -99,9 +99,9 @@ The cleaned data was used to create an interactive Power BI dashboard.
 
 **Raw Netflix Dataset**  
 ↓  
-**Data Cleaning & Preparation — Google Sheets**  
+**Data Cleaning & Preparation - Google Sheets**  
 ↓  
-**Exploratory Analysis — Pivot Tables**  
+**Exploratory Analysis - Pivot Tables**  
 ↓  
 **SQL Analysis**  
 ↓  
