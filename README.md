@@ -1,5 +1,4 @@
-# netflix-content-analysis
-End-to-end Netflix content analysis using Google Sheets, SQL, and Power BI to explore content trends, genres, ratings, countries, and release years. 
+
 #  Netflix Content Analysis
 
 An end-to-end data analytics project exploring Netflix's content library using data cleaning, exploratory analysis, SQL, and Power BI.
