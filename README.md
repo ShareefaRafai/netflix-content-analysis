@@ -76,7 +76,7 @@ The cleaned data was used to create an interactive Power BI dashboard.
 
 ### Dashboard Preview
 
-![Netflix Content Analysis Dashboard](dashboard.png)
+
 
 ##  Tools Used
 
