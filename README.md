@@ -11,7 +11,7 @@ The analysis focuses on content type, genres, ratings, countries, release years,
 
 The project follows an end-to-end analytics workflow:
 
-**Data Cleaning → Exploratory Analysis → SQL Analysis → Power BI Dashboard**
+**Raw Data → Data Cleaning → Exploratory Analysis → SQL Analysis → Power BI Dashboard**
 
 ##  Objectives
 
@@ -21,13 +21,13 @@ The project follows an end-to-end analytics workflow:
 - Analyze Netflix content across different countries
 - Understand the distribution of genres
 - Analyze the average runtime of movies
-- Create an interactive dashboard to present key findings
+- Build an interactive dashboard to present key findings
 
 ##  Data Cleaning & Exploratory Analysis
 
-The dataset was cleaned and explored using Google Sheets.
+The raw Netflix dataset was cleaned and explored using Google Sheets.
 
-The cleaning process included:
+The cleaning and preparation process included:
 
 - Handling missing values
 - Cleaning and organizing categorical data
@@ -36,8 +36,9 @@ The cleaning process included:
 - Creating pivot tables for exploratory analysis
 - Checking and validating the dataset before visualization
 
- **Google Sheets:**  
-[Netflix Content Analysis – Data Cleaning & Analysis](https://docs.google.com/spreadsheets/d/1Ll75Z23cTsOixRQxEJdwgCyDnKePTaSc2CBi71AlSes/edit?usp=sharing)
+
+**[Google Sheets – Data Cleaning & Exploratory Analysis](https://docs.google.com/spreadsheets/d/1Ll75Z23cTsOixRQxEJdwgCyDnKePTaSc2CBi71AlSes/edit?usp=sharing)**
+
 
 ##  SQL Analysis
 
@@ -73,6 +74,10 @@ The cleaned data was used to create an interactive Power BI dashboard.
 - Titles by Genre
 - Movie vs TV Show Distribution
 
+### Dashboard Preview
+
+![Netflix Content Analysis Dashboard](dashboard.png)
+
 ##  Tools Used
 
 - **Google Sheets** – Data cleaning and exploratory analysis
@@ -89,16 +94,14 @@ The cleaned data was used to create an interactive Power BI dashboard.
 - Dashboard Design
 - Analytical Thinking
 
-##  Project Files
+##  Project Workflow
 
-| File | Description |
-|------|-------------|
-| `dashboard.png` | Final Power BI dashboard screenshot |
-| `Netflix_Content_Analysis.pbix` | Power BI dashboard file |
-| `Netflix_SQL_Queries.sql` | SQL queries used for analysis |
-
-## Project
-
-**Netflix Content Analysis – End-to-End Data Analytics Project**
-
-Created as part of my data analytics learning journey.
+**Raw Netflix Dataset**  
+↓  
+**Data Cleaning & Preparation — Google Sheets**  
+↓  
+**Exploratory Analysis — Pivot Tables**  
+↓  
+**SQL Analysis**  
+↓  
+**Power BI Dashboard**
